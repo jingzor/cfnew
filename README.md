@@ -1,3 +1,7 @@
+author: https://github.com/byJoey/cfnew
+
+thanks to byJoey!
+
 # CFnew - 终端 v3.0
 
 > **⚠️ 重要：部署后请将兼容日期设置为 `2026-01-20`**
